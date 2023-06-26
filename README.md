@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Blogs Website</title>
   </head>
   <body>
     <h1>Blogs Website</h1>
