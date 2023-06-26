@@ -21,7 +21,7 @@
       <li>HTML/CSS/JavaScript</li>
       <li>Bootstrap</li>
       <li>SQLAlchemy</li>
-      <li>PostgreSQL</li>
+      <li>PostgreSQL (Database)</li>
     </ul>
     <h2>Output Examples</h2>
     <h3>Home Page</h3>
